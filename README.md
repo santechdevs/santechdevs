@@ -21,9 +21,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/1200px-New_Power_BI_Logo.svg.png" height="30" alt="csharp logo"  />
-  <img src="https://teorema-rd.com/wp-content/uploads/2024/04/Tableau-Emblem.png" height="30" alt="csharp logo"  />
-  <img src="https://bookdown.org/andersson_vargas/aprendiendo_r_studio_-_avm/Imagenes/RStudio-Logo-Flat.png" height="30" alt="csharp logo"  />
-  <img src="https://w7.pngwing.com/pngs/956/207/png-transparent-qlik-view-logo-tech-companies-thumbnail.png" height="30" alt="csharp logo"  />
+  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" height="30" alt="csharp logo"  />
+  <img src="https://e7.pngegg.com/pngimages/45/628/png-clipart-programming-language-computational-statistics-rstudio-others-blue-angle.png" height="30" alt="csharp logo"  />
+  <img src="https://w7.pngwing.com/pngs/162/301/png-transparent-microsoft-excel-logo-thumbnail.png" height="30" alt="csharp logo"  />
+  <img src="https://w7.pngwing.com/pngs/140/948/png-transparent-blue-and-yellow-logo-python-logo-programmer-fierce-python-s-cdr-angle-text-thumbnail.png" height="30" alt="csharp logo"  />
 </div>
 
 ###
