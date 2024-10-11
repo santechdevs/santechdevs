@@ -23,7 +23,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/1200px-New_Power_BI_Logo.svg.png" height="30" alt="csharp logo"  />
   <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" height="30" alt="csharp logo"  />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1200px-R_logo.svg.png" height="30" alt="csharp logo"  />
-  <img src="https://w7.pngwing.com/pngs/162/301/png-transparent-microsoft-excel-logo-thumbnail.png" height="30" alt="csharp logo"  />
+  <img src="https://seeklogo.com/images/E/excel-logo-974BFF9CB9-seeklogo.com.png" height="30" alt="csharp logo"  />
   <img src="https://w7.pngwing.com/pngs/140/948/png-transparent-blue-and-yellow-logo-python-logo-programmer-fierce-python-s-cdr-angle-text-thumbnail.png" height="30" alt="csharp logo"  />
 </div>
 
