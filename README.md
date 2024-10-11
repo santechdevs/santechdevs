@@ -20,7 +20,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
-  <img src="https://images.datacamp.com/image/upload/v1724169856/image_ff55d03003.png" height="30" alt="csharp logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/1200px-New_Power_BI_Logo.svg.png" height="30" alt="csharp logo"  />
   <img src="https://teorema-rd.com/wp-content/uploads/2024/04/Tableau-Emblem.png" height="30" alt="csharp logo"  />
   <img src="https://bookdown.org/andersson_vargas/aprendiendo_r_studio_-_avm/Imagenes/RStudio-Logo-Flat.png" height="30" alt="csharp logo"  />
   <img src="https://w7.pngwing.com/pngs/956/207/png-transparent-qlik-view-logo-tech-companies-thumbnail.png" height="30" alt="csharp logo"  />
