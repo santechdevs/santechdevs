@@ -34,9 +34,8 @@
 </div>
 ## 🌐 Connect & Explore More 
 
-- [LinkedIn](https://www.linkedin.com/in/peter-diyo-a38451289/)
-- [Instagram](https://www.instagram.com/diyopeter/)
-- [Twitter](https://x.com/peter_diyo?t=GjznmSILO2rOpWbh9zFdHA&s=09)
-- [Portfolio website](https://peterdiyo.netlify.app/)
+- [LinkedIn](https://www.linkedin.com/in/sandro-manuel-anaya-leguia-256857256/)
+- [Instagram](https://www.instagram.com/elarkei/)
+- [Tableau](https://public.tableau.com/app/profile/sandro.anaya.leguia/)
 
 ###
