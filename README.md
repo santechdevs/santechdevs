@@ -29,11 +29,12 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png" height="30" alt="csharp logo"  />
   <img src="https://cdn.freebiesupply.com/logos/large/2x/spring-3-logo-svg-vector.svg" height="30" alt="csharp logo"  />
 </div>
+
 ## 📊 GitHub Stats
 
-| <img width="450em" src="https://github-profile-trophy.vercel.app/?username=PeterDiyo&theme=onestar&row=2&column=4&margin-w=10&margin-h=15&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy"> | <img  width="450em" src="https://github-readme-stats.vercel.app/api/top-langs?username=PeterDiyo&show_icons=true&locale=en&layout=compact&theme=vue-dark" alt="Diyo's Most used lang" /> |
+| <img width="450em" src="https://github-profile-trophy.vercel.app/?username=santechdevs&theme=onestar&row=2&column=4&margin-w=10&margin-h=15&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy"> | <img  width="450em" src="https://github-readme-stats.vercel.app/api/top-langs?username=santechdevs&show_icons=true&locale=en&layout=compact&theme=vue-dark" alt="Diyo's Most used lang" /> |
 | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|                                           <img  width="450em"   src="https://streak-stats.demolab.com?user=PeterDiyo&theme=vue-dark" alt="PeterDiyo Streak" />                                           |  <img width="450em" align="center" alt="PeterDiyo's Github stats"  src="https://github-readme-stats.vercel.app/api?username=PeterDiyo&show_icons=true&count_private=true&theme=vue-dark" />   |
+|                                           <img  width="450em"   src="https://streak-stats.demolab.com?user=santechdevs&theme=vue-dark" alt="PeterDiyo Streak" />                                           |  <img width="450em" align="center" alt="PeterDiyo's Github stats"  src="https://github-readme-stats.vercel.app/api?username=santechdevs&show_icons=true&count_private=true&theme=vue-dark" />   |
 
 ## 🌐 Connect & Explore More 
 
