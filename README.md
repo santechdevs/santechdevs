@@ -24,7 +24,7 @@
 <img src="https://img.icons8.com/?size=512&id=117561&format=png" height="30" alt="csharp logo"  />
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/207px-Jupyter_logo.svg.png" height="30" alt="csharp logo"  />
 <img src="https://upload.wikimedia.org/wikipedia/commons/b/b0/Bizagi.png" height="30" alt="csharp logo"  />
-<img src="  https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/android-studio-icon.png" height="30" alt="csharp logo"  />
+<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/android-studio-icon.png" height="30" alt="csharp logo"  />
 </div>
 
 ## 📊 GitHub Stats
