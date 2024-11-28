@@ -30,4 +30,11 @@
   <img src="https://cdn.freebiesupply.com/logos/large/2x/spring-3-logo-svg-vector.svg" height="30" alt="csharp logo"  />
 </div>
 
+## 🌐 Connect & Explore More 
+
+- [LinkedIn](https://www.linkedin.com/in/peter-diyo-a38451289/)
+- [Instagram](https://www.instagram.com/diyopeter/)
+- [Twitter](https://x.com/peter_diyo?t=GjznmSILO2rOpWbh9zFdHA&s=09)
+- [Portfolio website](https://peterdiyo.netlify.app/)
+
 ###
