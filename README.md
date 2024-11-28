@@ -30,9 +30,10 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs?username=santechdevs&show_icons=true&locale=en&layout=compact&theme=vue-dark" alt="Diyo's Most used lang" />
-  <img width="450em" src="https://github-readme-stats.vercel.app/api?username=santechdevs&show_icons=true&count_private=true&theme=vue-dark" alt="PeterDiyo's Github stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=santechdevs&show_icons=true&locale=en&layout=compact&theme=vue-dark" alt="Diyo's Most used lang" style="width: 48%; height: auto;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=santechdevs&show_icons=true&count_private=true&theme=vue-dark" alt="PeterDiyo's Github stats" style="width: 48%; height: auto;" />
 </div>
+
 
 ## 🌐 Connect & Explore More 
 
