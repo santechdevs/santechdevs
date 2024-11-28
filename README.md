@@ -41,9 +41,8 @@
 </div>
 
 ## 📊 GitHub Stats
-<div align="left">
+
 <img  width="450em" src="https://github-readme-stats.vercel.app/api/top-langs?username=santechdevs&show_icons=true&locale=en&layout=compact&theme=vue-dark" alt="Diyo's Most used lang" /> <img width="450em" align="center" alt="PeterDiyo's Github stats"  src="https://github-readme-stats.vercel.app/api?username=santechdevs&show_icons=true&count_private=true&theme=vue-dark" />   
-</div>
 
 ## 🌐 Connect & Explore More 
 
