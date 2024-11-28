@@ -1,7 +1,7 @@
 
 
-<h1 align="center">Hi 👋, I'm Sandro Manuel Anaya Leguia</h1>
-<h3 align="center">A passionate developer Junior & Data Analyst from Perú</h3>
+
+<h3 align="center">developer Junior & Data Analyst from Perú</h3>
 
 <div align="center">
   <img height="200" src="Banner Linkedin Profesional Corporativo Gris.png"  />
