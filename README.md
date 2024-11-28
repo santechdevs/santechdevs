@@ -27,7 +27,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" height="30" alt="csharp logo"  />
   
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png" height="30" alt="csharp logo"  />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" height="30" alt="csharp logo"  />
+  <img src="https://cdn.freebiesupply.com/logos/large/2x/spring-3-logo-svg-vector.svg" height="30" alt="csharp logo"  />
 </div>
 
 ###
