@@ -32,8 +32,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=santechdevs&show_icons=true&locale=en&layout=compact&theme=vue-dark" alt="Most Used Languages" width="400px" height="200px" />
   <img src="https://github-readme-stats.vercel.app/api?username=santechdevs&show_icons=true&count_private=true&theme=vue-dark" alt="GitHub Stats" width="400px" height="200px" />
 </div>
-## 🌐 Connect & Explore More 
 
+## 🌐 Connect & Explore More 
 - [LinkedIn](https://www.linkedin.com/in/sandro-manuel-anaya-leguia-256857256/)
 - [Instagram](https://www.instagram.com/elarkei/)
 - [Tableau](https://public.tableau.com/app/profile/sandro.anaya.leguia/)
