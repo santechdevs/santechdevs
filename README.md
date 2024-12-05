@@ -4,7 +4,7 @@
 <h3 align="center"> 💻 Developer Junior & Data Analyst 📈 </h3>
 
 <div align="center">
-  <img height="200" src="Banner Linkedin Profesional Corporativo Gris.png"  />
+  <img height="200" src="Black Minimal Motivation Quote LinkedIn Banner.png"  />
 </div>
 
 ### ⚡ Programing Languages :
