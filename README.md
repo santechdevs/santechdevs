@@ -4,7 +4,7 @@
 <h3 align="center"> 💻 Developer Junior & Data Analyst 📈 </h3>
 
 <div align="center">
-  <img height="200" src="Banner (3).png"  />
+  <img height="200" src="Banner.png"  />
 </div>
 
 ### ⚡ Programing Languages :
